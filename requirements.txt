@@ -4,3 +4,8 @@ python-dotenv==1.0.0
 pandas>=2.2.0
 pyarrow
 fastparquet
+sqlalchemy==2.0.25
+psycopg2-binary
+
+
+
